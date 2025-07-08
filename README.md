@@ -7,22 +7,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Steveterence&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="benjaminfehem" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Steveterence&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="Steveterence" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Steveterence&show_icons=true&locale=en&theme=tokyonight" alt="Steveterence" /></p>
-Voici un exemple simple de code HTML + CSS qui représente un logo en forme de "V" avec le nom TG intégré :
-
-
----
-
-✅ Résultat attendu :
-
-Un "V" stylisé en SVG (ou CSS).
-
-Le texte "TG" à côté ou intégré dans le "V".
-
-
-
----
-
-🔧 Code HTML + CSS :
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -87,6 +71,3 @@ Le texte "TG" à côté ou intégré dans le "V".
   </div>
 </body>
 </html>
-
-
----
