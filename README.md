@@ -1,4 +1,4 @@
-## je suis NLAM KIGOUE STEVE TERENCE, passionné de cyber sécurité, programmation web, et du infographie 
+## je suis NLAM KIGOUE STEVE TERENCE, passionné de cyber sécurité, programmation web, et d'infographie 
 ### analyste soft junior cyber sécurité | élève ingénieur en art numérique 
 
 <img src="https://github-profile-trophy.vercel.app/?username=Steveterence&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
